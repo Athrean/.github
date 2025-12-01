@@ -1,37 +1,23 @@
 <div align="center">
 
-  <img src="https://github.com/Athrean/.github/raw/main/assets/banner.png" alt="Athrean" width="800" />
+  <video src="https://github.com/Athrean/.github/raw/main/banner.mp4" width="800" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
 
-  <h2>Building the Future of [Your Vision Here]</h2>
-
-  <p>
-    <a href="https://twitter.com/athrean">
-      <img src="https://img.shields.io/twitter/follow/athrean?style=social" alt="Twitter Follow" />
-    </a>
-    <a href="https://discord.gg/athrean">
-      <img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white" />
-    </a>
-  </p>
+  <h2>Athrean</h2>
+  <p><strong>Early‑stage, building in public.</strong></p>
 
 </div>
 
-## About Athrean
+## Vision
 
-We're building [describe what you're building]—designed to [what problem you solve]. Our mission is to [your mission statement].
+Athrean is a young startup focused on **shipping real products fast**, with a bias toward **clarity, simplicity, and real user impact**.
 
-Open, transparent, and community-driven.
+This org will host our experiments, internal tools, and public products as we grow.
 
-## Get Involved
+## Community
 
-We welcome contributions from the community!
+- **Issues**: Share feedback and report bugs in the repos
+- **Discussions/PRs**: Help shape what we build next
 
-1. 🐛 **Report Bugs**: Open an issue if you find any bugs
-2. 💡 **Suggest Features**: Have an idea? Share it with us
-3. ⭐ **Star Our Repos**: Show your support
-
-Join our [Discord](https://discord.gg/athrean) to chat with the team.
-
-<div align="center">
-  <br>
-  Made with ❤️ by the Athrean team
-</div>
+Stay tuned — more coming soon.
