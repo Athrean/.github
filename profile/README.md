@@ -1,8 +1,6 @@
 <div align="center">
 
-  <video src="https://github.com/Athrean/.github/raw/main/banner.mp4" width="800" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/Athrean/.github/raw/main/baner.gif" width="800" alt="Athrean" />
 
   <h2>Athrean</h2>
   <p><strong>Early‑stage, building in public.</strong></p>
