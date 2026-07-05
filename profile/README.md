@@ -1,5 +1,5 @@
 <div align="center">
-<img width="2484" height="2406" alt="athrean" src="https://github.com/user-attachments/assets/4ef39c19-aed9-4f98-b130-ee5a04ef9135" />
+<img width="1254" height="1254" alt="athrean" src="https://github.com/user-attachments/assets/de267075-eb1c-4b9b-9cc1-62a87777faa7" />
 
 
   <h2>Athrean</h2>
