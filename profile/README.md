@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" alt="Athrean" src="https://github.com/user-attachments/assets/de267075-eb1c-4b9b-9cc1-62a87777faa7" />
+<img width="1683" height="935" alt="orch-back" src="https://github.com/user-attachments/assets/d605cb5a-21be-4423-afc5-ed089918cca9" />
+
 
 <br />
 
